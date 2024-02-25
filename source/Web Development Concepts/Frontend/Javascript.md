@@ -19,7 +19,7 @@ has_children: false
 
 ---
 
-To add JavaScript to your website, 
+To add JavaScript to your website, you would want to use the `<script>` tag
 
 [Previous: CSS](CSS){: .float-left .v-align-text-top}
 [Next: Backend](../Backend){: .float-right .v-align-text-top}
